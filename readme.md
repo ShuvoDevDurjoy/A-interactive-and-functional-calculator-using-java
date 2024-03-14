@@ -18,3 +18,4 @@ As in java there is no `eval()` function as in  <strong>Javascript</strong> , th
 8. <blockquote>There is an <span style="color : yellow">AC</span> button that will clear the input and output field both .<hr>
 9. <blockquote>There is a <span style="color : yellow">ANS</span> button which will evaluate the input expression as well . <hr>
 10. <blockquote>If user press <span style="color : yellow">=</span> for a input like <span style="color : yellow">1+2.3+</span> the programe also going to evaluate the expression and will show the output as <span style="color : yellow">1+2.3=3.3</span> and if the user again press <span style="color : yellow">=</span> then the input expression is going to be again appear in input field in the format like <span style="color : yellow">1+2.3+</span>
+# Thanks For Visiting the page . Happy Coding 🎉 🎉 🎉 💻 🎉 🎉 🎉
